@@ -1,6 +1,6 @@
-# Simple DJango Authentication app by leveraging djangos' builtin auth
+## Simple DJango Authentication app by leveraging djangos' builtin auth
 
-## Installation
+### Installation
 
 Clone Repository
 
