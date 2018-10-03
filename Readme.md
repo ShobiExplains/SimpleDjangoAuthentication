@@ -1,4 +1,4 @@
-## Simple DJango Authentication app by leveraging djangos' builtin auth
+## Simple Django Authentication app by leveraging djangos' builtin auth
 
 ### Installation
 
