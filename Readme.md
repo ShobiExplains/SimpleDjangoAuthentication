@@ -1,6 +1,6 @@
-# Simple DJango Authentication app by leveraging djangos' builtin auth
-
-## Installation
+## Simple Django Authentication app by leveraging djangos' builtin auth
+Full Step by step tutorial on https://youtu.be/9GYb6bdqids
+### Installation
 
 Clone Repository
 
